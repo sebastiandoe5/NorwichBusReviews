@@ -12,3 +12,15 @@ p {
     font-family: Arial;
 }
 
+h1 {
+    font-family: Arial;
+}
+
+h2 {
+    font-family: Arial;
+}
+
+.ExclamationMark {
+    height: 40px;
+    width: 40px;
+}
