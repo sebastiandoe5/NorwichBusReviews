@@ -38,4 +38,5 @@ h2 {
 
 .TrafficAnnouncements {
     font-weight: bold;
+    position: relative;
 }
