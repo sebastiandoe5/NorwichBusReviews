@@ -1,9 +1,11 @@
 .InfoDiv {
     width: 100%;
     height: 50px;
-    background-color: greenyellow;
+    background-image: LimeGreen;
     line-height: 10px;
     display: inline-block;
+    position: relative;
+    border-radius: 25px;
 }
 
 a {
@@ -26,6 +28,7 @@ h2 {
     height: 30px;
     width: 30px;
     padding-top: 10px;
+    padding-left: 12px;
 }
 
 .NorwichBusUpdatesTitle {
