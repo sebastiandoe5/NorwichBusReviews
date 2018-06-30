@@ -25,3 +25,11 @@ h2 {
     height: 30px;
     width: 30px;
 }
+
+.Label1 {
+    position: absolute;
+}
+
+.NorwichBusUpdates {
+    position: relative
+}
