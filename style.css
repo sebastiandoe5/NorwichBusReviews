@@ -3,6 +3,7 @@
     height: 50px;
     background-color: greenyellow;
     line-height: 10px;
+    display: inline-block;
 }
 
 a {
