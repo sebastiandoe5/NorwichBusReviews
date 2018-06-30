@@ -31,5 +31,6 @@ h2 {
 }
 
 .NorwichBusUpdates {
-    position: relative
+    position: relative;
+    padding-top: 50px
 }
