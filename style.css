@@ -1,11 +1,14 @@
 .InfoDiv {
     width: 100%;
     height: 50px;
-    background-image: LimeGreen;
+    background-color: aliceblue;
     line-height: 10px;
     display: inline-block;
     position: relative;
-    border-radius: 25px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: Arial;
+    text-align: center;
 }
 
 a {
@@ -35,12 +38,13 @@ h2 {
     position: absolute;
     font-weight: bold;
     padding-left: 10px;
+    padding-top: -5px;
 }
 
-.NorwichBusUpdates {
+.TwitterFrame {
     padding-top: 80px;
-    height: 1000px;
-    width: 500px;
+    height: 700px;
+    width: 450px;
 }
 
 .TrafficAnnouncements {
@@ -48,9 +52,20 @@ h2 {
     position: relative;
     padding-top: -150cm;
     padding-left: 40px;
+    text-align: center;
 }
 
 .NBULogo {
     height: 70px;
     width: 70px;
+}
+
+.SpacingDiv1 {
+    width: 100%;
+    height: 50px;
+}
+
+.FullTrafficInformationPage {
+    width: 100%;
+    height: 100%;
 }
